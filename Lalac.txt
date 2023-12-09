@@ -1,0 +1,13 @@
+El paciente Lala presenta
+- Gestación
+- Fractura
+- Diarrea
+- Vomito
+- Heces con moco
+
+
+El paciente Lala requiere estudios
+- Ultrasonido abdominal
+- Rayos X
+- Miscroscopia
+- Biometria Hemática

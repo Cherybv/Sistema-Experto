@@ -1,0 +1,13 @@
+El paciente Noel presenta
+- Gestación
+- Fractura
+- Diarrea
+- Vomito
+- Heces con moco
+
+
+El paciente Noel requiere estudios
+- Ultrasonido abdominal
+- Rayos X
+- Miscroscopia
+- Biometria Hemática
